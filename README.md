@@ -20,6 +20,3 @@ Teammates:
   - xgboost
   - gdown
 
-2. Run all cells in the jupyter file "plain_decision_tree_classifier.ipynb" first. This will spawn the various pickle files required to run the other models.
-3. Run the other models (adaboost_classifier.ipynb, random_forest_classifier.ipynb, xgboost_classifier.ipynb)
-
