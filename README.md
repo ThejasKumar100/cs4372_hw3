@@ -19,4 +19,5 @@ Teammates:
   - ucimlrepo
   - xgboost
   - gdown
+  - pydot
 
