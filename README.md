@@ -1,6 +1,7 @@
 # Assignment 3
 
 Class: CS 4372.501 - Computational Methods for Data Science
+For this submission, we both have used 2 extension days past the original deadline.
 
 Professor: Anurag Nagar
 
